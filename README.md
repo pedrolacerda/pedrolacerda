@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-😄 Pronouns: He/Him
+### Pronouns: **He/Him** :man:
 
 🌱 I’m currently learning Dart and Flutter, still pretty newbie on it
 
