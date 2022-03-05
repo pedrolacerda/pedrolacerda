@@ -2,4 +2,5 @@
 
 ### Pronouns: **He/Him** :man:
 
-I'll, some day, improve this profile... soon...
+
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolacerda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
