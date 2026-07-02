@@ -5,6 +5,7 @@
 # Hi, I'm Pedro Lacerda 👋
 
 **GitHub**
+
 **Strategic Solutions Engineer**
 
 <a href="https://github.com/pedrolacerda"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40pedrolacerda-181717.svg?logo=github&amp;variant=branded&amp;mode=dark&amp;font=fira-code"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40pedrolacerda-181717.svg?logo=github&amp;variant=branded&amp;mode=light&amp;font=fira-code"></picture></a> <a href="https://x.com/pedrohenrique"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/pedrohenrique.svg?variant=branded&amp;mode=dark&amp;font=fira-code"><img alt="X Follow" src="https://www.shieldcn.dev/x/follow/pedrohenrique.svg?variant=branded&amp;mode=light&amp;font=fira-code"></picture></a>
